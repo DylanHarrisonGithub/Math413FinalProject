@@ -1,7 +1,7 @@
 # Math413FinalProject
 
 Math 413 Numerical Analysis Final Project.
-[View Full Paper](approximation-fixed-arc.pdf)
+[Read The Full Paper](approximation-fixed-arc.pdf)
 
 # Preview page 1:
 
